@@ -1,0 +1,14 @@
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Infra.Data.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Infra.Data.pdb
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\obj\Debug\ArquiteturaDDD.Infra.Data.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\obj\Debug\ArquiteturaDDD.Infra.Data.pdb
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\obj\Debug\ArquiteturaDDD.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Domain.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Domain.pdb
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\ArquiteturaDDD.Infra.Data.dll.config
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\obj\Debug\ArquiteturaDDD.Infra.Data.Migrations.SetupBase.resources
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.Data\obj\Debug\ArquiteturaDDD.Infra.Data.csproj.GenerateResource.Cache

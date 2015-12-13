@@ -1,0 +1,8 @@
+D:\Projetos\DotNet\4 - ArquiteturaDDD\ArquiteturaDDD.Domain\bin\Debug\ArquiteturaDDD.Domain.dll
+D:\Projetos\DotNet\4 - ArquiteturaDDD\ArquiteturaDDD.Domain\bin\Debug\ArquiteturaDDD.Domain.pdb
+D:\Projetos\DotNet\4 - ArquiteturaDDD\ArquiteturaDDD.Domain\obj\Debug\ArquiteturaDDD.Domain.dll
+D:\Projetos\DotNet\4 - ArquiteturaDDD\ArquiteturaDDD.Domain\obj\Debug\ArquiteturaDDD.Domain.pdb
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Domain\obj\Debug\ArquiteturaDDD.Domain.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Domain\obj\Debug\ArquiteturaDDD.Domain.pdb
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Domain\bin\Debug\ArquiteturaDDD.Domain.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Domain\bin\Debug\ArquiteturaDDD.Domain.pdb

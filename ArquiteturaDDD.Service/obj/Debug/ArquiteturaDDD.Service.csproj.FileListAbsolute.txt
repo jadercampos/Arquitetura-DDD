@@ -1,0 +1,7 @@
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Service\bin\Debug\ArquiteturaDDD.Service.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Service\bin\Debug\ArquiteturaDDD.Service.pdb
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Service\obj\Debug\ArquiteturaDDD.Service.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Service\obj\Debug\ArquiteturaDDD.Service.pdb
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Service\bin\Debug\ArquiteturaDDD.Domain.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Service\bin\Debug\ArquiteturaDDD.Domain.pdb
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Service\obj\Debug\ArquiteturaDDD.Service.csprojResolveAssemblyReference.cache

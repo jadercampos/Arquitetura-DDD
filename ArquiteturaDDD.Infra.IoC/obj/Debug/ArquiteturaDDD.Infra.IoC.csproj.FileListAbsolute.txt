@@ -1,0 +1,4 @@
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.IoC\bin\Debug\ArquiteturaDDD.Infra.IoC.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.IoC\bin\Debug\ArquiteturaDDD.Infra.IoC.pdb
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.IoC\obj\Debug\ArquiteturaDDD.Infra.IoC.dll
+D:\Projetos\DotNet\8 - ArquiteturaDDD\ArquiteturaDDD.Infra.IoC\obj\Debug\ArquiteturaDDD.Infra.IoC.pdb
